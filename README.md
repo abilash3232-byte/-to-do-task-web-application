@@ -6,7 +6,7 @@ You can run the entire system with using Docker Compose.
 
 ### Prerequisites
 - Docker Desktop installed  
-- Port **3000**, **5000**, and **3306** free
+- Port **3000**, **5000**, and **3306** 
 
 ---
 
