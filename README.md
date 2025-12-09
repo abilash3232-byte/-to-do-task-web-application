@@ -68,7 +68,7 @@ npm test
 
 ---
 
-## 2. Technologies Used
+## Technologies Used
 
 Frontend     => React 19, Vite, Material UI |
 Backend      => Node.js, Express |
