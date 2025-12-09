@@ -76,6 +76,8 @@ Database     => MySQL 8 |
 Testing      => Jest, Supertest, React Testing Library |
 Container    => Docker, Docker Compose |
 Language     => JavaScript |
-<img width="1919" height="920" alt="Screenshot 2025-12-09 121522" src="https://github.com/user-attachments/assets/f7ee0c43-f758-4c41-810d-1e0aed62f558" />
+<img width="1000" height="520" alt="Screenshot 2025-12-09 121522" src="https://github.com/user-attachments/assets/f7ee0c43-f758-4c41-810d-1e0aed62f558" />
 
+<img width="1000" height="520" alt="Screenshot 2025-12-09 121605" src="https://github.com/user-attachments/assets/e159baf0-4149-4901-8b03-617b87d6855d" />
 
+<img width="1000" height="520" alt="Screenshot 2025-12-09 121620" src="https://github.com/user-attachments/assets/5d4d06a2-9940-4f76-81d1-581898725654" />
